@@ -8,4 +8,5 @@ func main() {
 	mybill := newBill("mario's bill")
 
 	fmt.Println(mybill.format())
+	fmt.Println("hello world")
 }
