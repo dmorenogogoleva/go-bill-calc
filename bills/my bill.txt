@@ -1,0 +1,6 @@
+Bill breakdown: 
+coffe:                    ... $4 
+cake:                     ... $5 
+cay tea latte:            ... $3.99 
+tip:                      ... $5 
+total:                    ... $17.99

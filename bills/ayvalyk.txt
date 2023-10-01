@@ -1,0 +1,7 @@
+Bill breakdown: 
+beer:                     ... $6 
+meze:                     ... $10 
+octopus:                  ... $20 
+fish:                     ... $15 
+tip:                      ... $10 
+total:                    ... $61.00
