@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// next 18
+// next 19
 type bill struct {
 	name  string
 	items map[string]float64
